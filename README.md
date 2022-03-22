@@ -1,3 +1,3 @@
-# Eidolon
+# Addolon
 
-A magic mod for minecraft with a lot of spooky features.
+An addon mod for elucent's Eidolon
